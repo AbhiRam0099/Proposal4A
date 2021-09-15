@@ -14,3 +14,7 @@
 - Data host + type:Heroku PostgreSQL
 - Front-end page plan:server-side views or SPA
 - Front-end responsive design:Bootstrap 
+
+### Team members
+- Abhilash Ramavaram
+- Madhari,Narsing Rao Nikitha
