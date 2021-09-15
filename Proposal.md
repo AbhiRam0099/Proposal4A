@@ -3,6 +3,16 @@
 
 ### Schedule & Sprints
 - set by the GDP semesters (about every 2-weeks = a sprint)
+## Process & Schedule
+
+#### Sprint 1. Gather Requirements
+
+#### Sprint 2. Design presentation
+
+#### Sprint 3. Website Build
+
+#### Sprint 4. Testing and Installation
+
 ## Budget
 
 | S. No. | Name                                                            | Role              | Hourly Pay                | Hours/ Week | Estimated Cost/ Week |
