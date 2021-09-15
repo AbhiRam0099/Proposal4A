@@ -17,8 +17,8 @@
 
 | S. No. | Name                                                            | Role              | Hourly Pay                | Hours/ Week | Estimated Cost/ Week |
 |------|--------------------------------------------------------------------|--------------------|------------------------| ------------- | ---------- |
-| 1    | [Abhilash Ramavaram](https://github.com/AbhiRam0099)           | Back-end Developer  | $60 |   9 - 12 |  $500 - $600 |
-| 2    | [Madhari,Narsing Rao Nikitha](https://github.com/NikithaMN-05)                   | Front-end Developer | $50 | 9 - 12 | $450 - $550 |
+| 1    | [Abhilash Ramavaram](https://github.com/AbhiRam0099)           | Back-end Developer  | $60 |   9 - 12 |  $540 - $720 |
+| 2    | [Madhari,Narsing Rao Nikitha](https://github.com/NikithaMN-05)                   | Front-end Developer | $50 | 9 - 12 | $450 - $600 |
 
 ### Scope of work
 - clearly divided into sprint buckets of time.
