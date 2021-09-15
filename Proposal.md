@@ -3,8 +3,13 @@
 
 ### Schedule & Sprints
 - set by the GDP semesters (about every 2-weeks = a sprint)
-### Budget
-- set by the size of the development team * average expected hours per developer per week.
+## Budget
+
+| S. No. | Name                                                            | Role              | Hourly Pay                | Hours/ Week | Estimated Cost/ Week |
+|------|--------------------------------------------------------------------|--------------------|------------------------| ------------- | ---------- |
+| 1    | [Abhilash Ramavaram](https://github.com/AbhiRam0099)           | Back-end Developer  | $60 |   9 - 12 |  $500 - $600 |
+| 2    | [Madhari,Narsing Rao Nikitha](https://github.com/NikithaMN-05)                   | Front-end Developer | $50 | 9 - 12 | $450 - $550 |
+
 ### Scope of work
 - clearly divided into sprint buckets of time.
 
