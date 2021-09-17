@@ -2,7 +2,7 @@
 ## Proposal for Feature Location
 
 ### Schedule & Sprints
-- set by the GDP semesters (about every 2-weeks = a sprint)
+- set by the GDP semesters (about every 2-weeks = a sprint). Each process is scheduled to be completed in 1 Sprint.
 ## Process & Schedule
 
 #### Sprint 1. Gather Requirements
