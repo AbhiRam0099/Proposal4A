@@ -24,10 +24,10 @@
 - clearly divided into sprint buckets of time.
 
 ### Technology Stack
-- Backend language + framework:Java and spring boot 
+- Backend language + framework:Node and Express
 - Host:Heroku
-- Data host + type:Heroku PostgreSQL
-- Front-end page plan:server-side views or SPA
+- Data host + type:Heroku MongoDB
+- Front-end page plan:server-side views or ejs
 - Front-end responsive design:Bootstrap 
 
 ### Team members
