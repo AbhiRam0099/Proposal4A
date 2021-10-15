@@ -41,10 +41,10 @@
 
 ### Application Screenshots 
 
-![Home](images/Home.PNG)
-![List](images/List.PNG)
-![Login](images/Login.PNG)
+![Home](images/Home.png)
+![List](images/list.png)
+![Login](images/Login.png)
 
-### ***Accept and Sign Below***
+### *** To Accept , Sign Below***
 
    -------------------------
