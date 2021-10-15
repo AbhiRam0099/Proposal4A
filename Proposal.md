@@ -6,6 +6,8 @@
 ## Process & Schedule
 
 #### Sprint 1.  Requirement Gathering
+- We need to figure out what you need and what you believe in. Then we can start creating the application that can conveys the needs you provide in way that is meaningful to your app users. It help us to understand and to design sketches.
+
 
 #### Sprint 2. Design presentation
 
