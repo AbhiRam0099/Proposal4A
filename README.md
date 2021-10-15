@@ -1,6 +1,6 @@
 # Proposal-4A Feature Location
 
-A repo to describe this proposal project [RFP](https://github.com/KeerthiMuli/featured-locations/blob/main/RFP.md).
+A repo to describe this proposal project [RFP](https://github.com/KeerthiMuli/featured-locations/blob/main/RFP.md). And, [proposal](https://github.com/AbhiRam0099/Proposal4A/blob/main/Proposal.md)
 
 ## Stack
 
