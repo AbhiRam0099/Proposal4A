@@ -18,6 +18,21 @@
 #### Sprint 4. Testing and release(Nov 2nd 2021 - N0v 12th 2021)
 - The functionalities that have been developed thus far have been tested, and the application is now hosted on Heroku and will run on any device. The deployment link will be supplied to you so that you may test the application. Any deployment concerns will be addressed, and the application will be ready for continued development next semester.
 
+#### Sprint 5. Authentication and Authorization (Jan 20 2022 - Jan 27th 2022)
+* In this sprint the user can able to login with registered mail address or with third party authorization such as facebook or gmail. New users can sign up with the email address where same credentials can be used for logging into the App.
+
+#### Sprint 6. Location updates (Jan 29 2022 – Feb 13 2022)
+* The users will have previlage to perform  update , add and delete locations . Where location of the photo can be uploaded and the location details can be updated . They all will be stored int the database .
+
+#### Sprint 7. Forgot Password (Feb 14 2022 - Feb 28 2022)
+*	Improving the user access with the forget password which will send the token to recet the password  then, the user can reloging with the new password .
+
+#### Sprint 8. User Testing (Feb 29 2022 - Mar 12 2022)
+* All the funtionalities and the UI will be tested in this sprint that includes the webpage responsiveness,button functionalities and image view .
+
+#### Sprint 9. Final Presentation (Mar 14 2022 - Mar 21 2022)
+*	The full version of the Application will be presented to the Client. If any changes or suggestions from the client will be implemented and deployed .
+
 ## Budget
 
 | S. No. | Name                                                            | Role              | Hourly Pay                | Hours/ Week | Estimated Cost/ Week |
