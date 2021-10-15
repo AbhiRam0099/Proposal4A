@@ -4,4 +4,4 @@ A repo to describe this proposal project [RFP](https://github.com/KeerthiMuli/fe
 
 ## Stack
 
-As We have a great experience of developing  websites , we propose to develop your Website with ***Java*** for Back-end with ***Spring boot*** framework, as they easily scalable and has high performance and ***serverside views, Bootstrap*** for the Font-end.
+As We have a great experience of developing  websites , we propose to develop your Website with ***Node js*** for Back-end with ***Express*** framework, as they easily scalable and has high performance and ***serverside views, Bootstrap*** for the Font-end.
