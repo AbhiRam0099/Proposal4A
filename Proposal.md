@@ -5,13 +5,13 @@
 - set by the GDP semesters (about every 2-weeks = a sprint). Each process is scheduled to be completed in 1 Sprint.
 ## Process & Schedule
 
-#### Sprint 1. Gather Requirements
+#### Sprint 1.  Requirement Gathering
 
 #### Sprint 2. Design presentation
 
-#### Sprint 3. Website Build
+#### Sprint 3. Build website
 
-#### Sprint 4. Testing and Installation
+#### Sprint 4. Testing and release
 
 ## Budget
 
