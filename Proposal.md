@@ -54,6 +54,9 @@
 - Abhilash Ramavaram
 - Madhari,Narsing Rao Nikitha
 
+### ER Diagram
+![ERDiagram](images/ERFeaturedLocations.png)
+
 ### Application Screenshots 
 
 ![Home](images/Home.png)
