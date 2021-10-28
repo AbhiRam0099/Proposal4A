@@ -60,8 +60,8 @@
 ### Application Screenshots 
 
 ![Home](images/Home.png)
-![List](images/list.png)
 ![Login](images/Login.png)
+![list](images/list.png)
 
 ### *** To Accept , Sign Below***
 
