@@ -55,8 +55,8 @@
 - Madhari,Narsing Rao Nikitha
 
 ### Reference
-- (https://github.com/KeerthiMuli/featured-locations/blob/main/RFP.md)
-- (https://monday.com/blog/project-management/how-to-write-a-killer-project-plan-in-6-simple-steps/)
+- https://github.com/KeerthiMuli/featured-locations/blob/main/RFP.md
+- https://monday.com/blog/project-management/how-to-write-a-killer-project-plan-in-6-simple-steps/
 
 ### ER Diagram
 ![ERDiagram](images/ERFeaturedLocations.png)
